@@ -1,0 +1,4 @@
+*.pyc
+build/
+dist/
+beatbox.egg-info/
